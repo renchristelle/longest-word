@@ -4,8 +4,8 @@ name: basic CI
 on:
   push:
     branches: [ master, main ]
-  pull_request:
-    branches: [ master, main ]
+  #pull_request:
+  #  branches: [ master, main ]
 jobs:
   build-and-run-pytest:
     runs-on: ubuntu-latest
