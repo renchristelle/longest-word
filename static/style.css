@@ -27,6 +27,6 @@ body {
 
 .letter {
   /* [...] */
-  background-color: #FFEB3B;
+  background-color: red;
   color: #666;
 }
